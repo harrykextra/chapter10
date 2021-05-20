@@ -15,6 +15,10 @@ class QuadrilateralTest {
 	void deleteAfterUse() {
 		
 	}
+	@Test
+	void canClone() {
+		
+	}
 
 	@Test
 	void test() {
